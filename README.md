@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there ![wave](https://github.com/R1ddl3m3Th15/R1ddl3m3Th15/assets/88293763/c5f064bb-2986-49af-aff3-74a4f92059dc), Aniruddha Bagchi!
 
 <!--
 **R1ddl3m3Th15/R1ddl3m3Th15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
