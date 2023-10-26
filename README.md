@@ -1,10 +1,10 @@
 ### Hi there 🖖, I am Aniruddha Bagchi!
 
-![](https://raw.githubusercontent.com/R1ddl3m3Th15/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/R1ddl3m3Th15/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![GitHub Stats (Dark Mode)](https://raw.githubusercontent.com/R1ddl3m3Th15/github-stats/master/generated/overview.svg)
+![GitHub Stats (Light Mode)](https://raw.githubusercontent.com/R1ddl3m3Th15/github-stats/master/generated/overview.svg)
+![Languages (Dark Mode)](https://raw.githubusercontent.com/R1ddl3m3Th15/github-stats/master/generated/languages.svg)
+![Languages (Light Mode)](https://raw.githubusercontent.com/R1ddl3m3Th15/github-stats/master/generated/languages.svg)
 
-![](https://raw.githubusercontent.com/R1ddl3m3Th15/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/R1ddl3m3Th15/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
 <!--
 **R1ddl3m3Th15/R1ddl3m3Th15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
