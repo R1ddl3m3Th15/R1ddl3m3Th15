@@ -1,8 +1,7 @@
 ### Hi there 🖖, I am Aniruddha Bagchi!
 
-![GitHub Stats (Dark Mode)](https://raw.githubusercontent.com/R1ddl3m3Th15/github-stats/master/generated/overview.svg)
 ![GitHub Stats (Light Mode)](https://raw.githubusercontent.com/R1ddl3m3Th15/github-stats/master/generated/overview.svg)
-![Languages (Dark Mode)](https://raw.githubusercontent.com/R1ddl3m3Th15/github-stats/master/generated/languages.svg)
+
 ![Languages (Light Mode)](https://raw.githubusercontent.com/R1ddl3m3Th15/github-stats/master/generated/languages.svg)
 
 
