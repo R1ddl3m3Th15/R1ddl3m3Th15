@@ -1,9 +1,9 @@
 <h1 style="color: #44AEFB;"> 👨🏻‍💻 Aniruddha Bagchi </h1>
 
-
+![cp](https://github.com/R1ddl3m3Th15/R1ddl3m3Th15/assets/88293763/869f4853-100b-47ce-9631-df834ce5e85c)
 
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
-    A rookie trying to make sense of the 
+I'm Aniruddha Bagchi, a final year undergrad at the National Institute of Technology, Rourkela. I'm deeply passionate about stories that blend reality and imagination. From thought-provoking cinema to immersive gaming experiences, these narratives have inspired me. As I dive into coding, my goal is clear: I want to replicate and expand upon the intricate tapestry of reality found in these captivating narratives. My love for these stories drives my coding pursuits, aiming to create experiences that transport people to extraordinary realms. 
 <br>
 <br>
 <div align="center">
