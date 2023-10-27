@@ -8,7 +8,7 @@ I'm Aniruddha Bagchi, a final year undergrad at the National Institute of Techno
 <br>
 <div align="center">
 
-[Email Me](mailto:khaledb.dev@gmail.com)
+[Email Me](mailto:aniruddha3.14159@gmail.com)
 </div>
 </p>    
 <br>
@@ -104,7 +104,7 @@ I'm Aniruddha Bagchi, a final year undergrad at the National Institute of Techno
     <a href="https://www.instagram.com/reddeadroads/" target="_blank">
         <img style="margin:0 10px 10px 0;" src="https://github.com/R1ddl3m3Th15/R1ddl3m3Th15/assets/88293763/04c3f973-e25f-466a-ae0c-dfefd050f5c7" alt="blogger" width="40px"/>
     </a>
-    <a href="mailto:khaledb.dev@gmail.com" target="_blank">
+    <a href="mailto:aniruddha3.14159@gmail.com" target="_blank">
         <img style="margin:0 10px 10px 0;" src="https://user-images.githubusercontent.com/78341798/194531383-ddb2b774-5bb9-491c-b601-4a4a7d9792fb.svg" alt="gmail" width="40px"/>
     </a>
 </div>
