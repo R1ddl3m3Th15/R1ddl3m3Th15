@@ -87,6 +87,9 @@ I'm Aniruddha Bagchi, a final year undergrad at the National Institute of Techno
 
 ![GitHub Stats (Light Mode)](https://raw.githubusercontent.com/R1ddl3m3Th15/github-stats/master/generated/overview.svg)
 
+![cp2](https://github.com/R1ddl3m3Th15/R1ddl3m3Th15/assets/88293763/3b00f9a7-8023-45ee-aa28-76e7c327384f)
+
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=R1ddl3m3Th15&count_private=true&theme=algolia&border_radius=20)
 
 <!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=R1ddl3m3Th15&show_icons=true&theme=algolia&border_radius=20) -->
