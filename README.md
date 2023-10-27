@@ -1,4 +1,4 @@
-<h1 style="color: #44AEFB;"> 👨🏻‍💻 Aniruddha Bagchi </h1>
+<h1 style="color: #44AEFB;"> 👨🏻‍💻 Hi! R1ddl3m3Th15 here 🖖  </h1>
 
 ![cp](https://github.com/R1ddl3m3Th15/R1ddl3m3Th15/assets/88293763/869f4853-100b-47ce-9631-df834ce5e85c)
 
@@ -82,6 +82,7 @@ I'm Aniruddha Bagchi, a final year undergrad at the National Institute of Techno
 <!-- Github & Languages Stats: https://github.com/anuraghazra/github-readme-stats --> 
 <!-- Streak Stats: https://github.com/denvercoder1/github-readme-streak-stats -->
 <!-- Change the value after ?username= to your GitHub username. -->
+<h2 style="color: #44AEFB">🪛 Stats</h2>
 <div class="stats" align="center">
 
 ![GitHub Stats (Light Mode)](https://raw.githubusercontent.com/R1ddl3m3Th15/github-stats/master/generated/overview.svg)
@@ -101,7 +102,7 @@ I'm Aniruddha Bagchi, a final year undergrad at the National Institute of Techno
 <!-- https://devicon.dev/ -->
 <div class="footer" align="center" style="margin:15px;">
     <a href="https://www.instagram.com/reddeadroads/" target="_blank">
-        <img style="margin:0 10px 10px 0;" src="https://user-images.githubusercontent.com/78341798/194531458-b5dfeb1b-bad5-4dfa-909a-2e402262db9a.svg" alt="blogger" width="40px"/>
+        <img style="margin:0 10px 10px 0;" src="https://github.com/R1ddl3m3Th15/R1ddl3m3Th15/assets/88293763/04c3f973-e25f-466a-ae0c-dfefd050f5c7" alt="blogger" width="40px"/>
     </a>
     <a href="mailto:khaledb.dev@gmail.com" target="_blank">
         <img style="margin:0 10px 10px 0;" src="https://user-images.githubusercontent.com/78341798/194531383-ddb2b774-5bb9-491c-b601-4a4a7d9792fb.svg" alt="gmail" width="40px"/>
